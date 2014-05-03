@@ -13986,9 +13986,9 @@ Source: www.kingbright.com</description>
 <label x="241.3" y="7.62" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="ETHER" gate="A" pin="5"/>
-<wire x1="274.32" y1="38.1" x2="251.46" y2="38.1" width="0.1524" layer="91"/>
-<label x="251.46" y="38.1" size="1.778" layer="95"/>
+<pinref part="ETHER" gate="A" pin="4"/>
+<wire x1="281.94" y1="40.64" x2="304.8" y2="40.64" width="0.1524" layer="91"/>
+<label x="299.72" y="40.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SCK" class="0">
@@ -14034,9 +14034,9 @@ Source: www.kingbright.com</description>
 <label x="241.3" y="5.08" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="ETHER" gate="A" pin="4"/>
-<wire x1="281.94" y1="40.64" x2="304.8" y2="40.64" width="0.1524" layer="91"/>
-<label x="299.72" y="40.64" size="1.778" layer="95"/>
+<pinref part="ETHER" gate="A" pin="5"/>
+<wire x1="274.32" y1="38.1" x2="251.46" y2="38.1" width="0.1524" layer="91"/>
+<label x="251.46" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="CS_RFID" class="0">
